@@ -1,8 +1,7 @@
 <%@ taglib uri="http://www.springframework.org/tags" prefix="s" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,7 +35,7 @@
 		      <th scope="col">usurname</th>
 		      <th scope="col">umail</th>
 		      <th scope="col">upassword</th>
-		       <th scope="col">uphone</th>
+		      <th scope="col">uphone</th>
 		      <th scope="col">ucompany</th>
 		    </tr>
 		  </thead>
@@ -60,11 +59,9 @@
 			      </td>
 			    </tr>
 			</c:forEach>
-		  </c:if>
-		    
+		  </c:if>		    
 		  </tbody>
-		</table>
-		
+		</table>		
 	</div>
 </div>
 
