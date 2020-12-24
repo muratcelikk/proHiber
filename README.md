@@ -24,16 +24,16 @@ Ardından ideyi run ederiz. (Eğer dbyi görmezse: Database kısmına gelip new 
 <a href="https://github.com/muratcelikk/proHiber/blob/master/SQL%26img/projem.PNG" target="_blank">
 <img src="https://github.com/muratcelikk/proHiber/blob/master/SQL%26img/projem.PNG" width="200" style="max-width:100%;"></a>
 
-<p>
+
 <a href="https://github.com/muratcelikk/proHiber/blob/master/SQL%26img/Projem2.png" target="_blank">
 <img src="https://github.com/muratcelikk/proHiber/blob/master/SQL%26img/Projem2.png" width="200" style="max-width:100%;"></a>
 
 
-<p>
+
 <a href="https://github.com/muratcelikk/proHiber/blob/master/SQL%26img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(197).png" target="_blank">
 <img src="https://github.com/muratcelikk/proHiber/blob/master/SQL%26img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(197).png" width="200" style="max-width:100%;"></a>
 
-<p>
+
 <a href="https://github.com/muratcelikk/proHiber/blob/master/SQL%26img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(199).png" target="_blank">
 <img src="https://github.com/muratcelikk/proHiber/blob/master/SQL%26img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(199).png" width="200" style="max-width:100%;"></a>
-
+<p>
