@@ -9,3 +9,12 @@
 - Hbernate 5.2 kullanıldı.
 - Compiler: 1.8 (Hibernate için 1.8 gerekli)
 - JPA 2.1 kullanıldı.
+
+
+## Projenin Ekran görüntüleri
+<p>
+<a href="https://github.com/muratcelikk/proHiber/blob/master/Projem2.png" target="_blank">
+<img src="https://github.com/muratcelikk/proHiber/blob/master/Projem2.png" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/muratcelikk/proHiber/blob/master/projem.PNG" target="_blank">
+<img src="https://github.com/muratcelikk/proHiber/blob/master/projem.PNG" width="200" style="max-width:100%;"></a>
