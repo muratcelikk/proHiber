@@ -5,11 +5,12 @@
 - JBoss Tools 4.12.0 Final (Marketplace den)
 - Data tools (https://download.eclipse.org/datatools/updates/1.14.106-SNAPSHOT/repository/)
 - Apache Tomcat 9.0.40  serverı kullanıldı.
+- Mysql(XAMPP V3.2.4)
 
 - Hbernate 5.2 kullanıldı.
 - JPA 2.1 kullanıldı.
-
-Spring MVC, Maven, JSP, Html, Css, jquery, bootstrap, Mysql.
+- Spring MVC, Maven
+- JSP, Html, Css, jquery, bootstrap,
 
 # Kullanım:
 Hibernate projesini masaüstüne indirdikten sonra sts-4 idesine import ederiz. Ardından projem.sql i meysql yükleriz.(My sql projem veritabanını oluşturup sql mizi içe aktarırız)
