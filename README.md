@@ -13,8 +13,8 @@
 
 # Kullanım:
 - Hibernate projesini masaüstüne indirdikten sonra sts-4 idesine import ederiz. 
-- projem.sql i mysql yükleriz.(My sql projem veritabanını oluşturup sql mizi içe aktarırız)
-- Ardından ideyi run ederiz. 
+- projem.sql i mysql yükleriz.(Mysql'e "projem" adlı bir veritabanını oluşturup projem.sql mizi içe aktarırız)
+- Ardından sts-4 idemizde projemizi run ederiz. 
 (Eğer dbyi görmezse: Database kısmına gelip new connection dan mysql bağlarız. Jar olarak 5.1.0 remove edip 5.1.38 i kurarız. DB projem) Sonrada JPA ayarını yapar ve tablomuzu entity olarak projemize çekeriz.
 
 ## Projenin Ekran görüntüleri
