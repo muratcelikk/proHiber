@@ -1,4 +1,4 @@
-## Kullanılan Teknolojiler:
+## Gereksinimler:
 
 - Spring Tool Suit-4-4.3.0.RELEASE idesi kullanıldı.
 - Spring Tools 3 (Standalone Edition) 3.9.11.RELEASE (Marketplace den)
@@ -9,6 +9,7 @@
 - Hbernate 5.2 kullanıldı.
 - JPA 2.1 kullanıldı.
 
+Spring MVC, Maven, JSP, Html, Css, jquery, bootstrap, Mysql.
 
 ## Projenin Ekran görüntüleri
 <p>
