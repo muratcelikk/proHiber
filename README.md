@@ -1,4 +1,4 @@
-## Gereksinimler:
+## Kurulumlar:
 
 - Spring Tool Suit-4-4.3.0.RELEASE idesi kullanıldı.
 - Spring Tools 3 (Standalone Edition) 3.9.11.RELEASE (Marketplace den)
@@ -6,11 +6,10 @@
 - Data tools (https://download.eclipse.org/datatools/updates/1.14.106-SNAPSHOT/repository/)
 - Apache Tomcat 9.0.40  serverı kullanıldı.
 - Mysql(XAMPP V3.2.4)
-
 - Hbernate 5.2 kullanıldı.
 - JPA 2.1 kullanıldı.
-- Spring MVC, Maven
-- JSP, Html, Css, jquery, bootstrap,
+- Spring MVC, Maven.
+- JSP, Html, Css, jquery, bootstrap.
 
 # Kullanım:
 - Hibernate projesini masaüstüne indirdikten sonra sts-4 idesine import ederiz. 
