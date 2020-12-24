@@ -7,7 +7,6 @@
 - Apache Tomcat 9.0.40  serverı kullanıldı.
 
 - Hbernate 5.2 kullanıldı.
-- Compiler: 1.8 (Hibernate için 1.8 gerekli)
 - JPA 2.1 kullanıldı.
 
 
