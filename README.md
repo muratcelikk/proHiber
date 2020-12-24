@@ -1,5 +1,6 @@
 ## Kurulumlar:
 
+- JDK 1.8.0_271  kullanıldı.
 - Spring Tool Suit-4-4.3.0.RELEASE idesi kullanıldı.
 - Spring Tools 3 (Standalone Edition) 3.9.11.RELEASE (Marketplace den)
 - JBoss Tools 4.12.0 Final (Marketplace den)
