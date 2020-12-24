@@ -1,11 +1,11 @@
-# Kullanılan Teknolojiler:
+## Kullanılan Teknolojiler:
 
-Spring Tool Suit-4-4.3.0.RELEASE idesi kullanıldı.
-Spring Tools 3 (Standalone Edition) 3.9.11.RELEASE (Marketplace den)
-JBoss Tools 4.12.0 Final (Marketplace den)
-Data tools (https://download.eclipse.org/datatools/updates/1.14.106-SNAPSHOT/repository/)
-Apache Tomcat 9.0.40  serverı kullanıldı.
+- Spring Tool Suit-4-4.3.0.RELEASE idesi kullanıldı.
+- Spring Tools 3 (Standalone Edition) 3.9.11.RELEASE (Marketplace den)
+- JBoss Tools 4.12.0 Final (Marketplace den)
+- Data tools (https://download.eclipse.org/datatools/updates/1.14.106-SNAPSHOT/repository/)
+- Apache Tomcat 9.0.40  serverı kullanıldı.
 
-Hbernate 5.2 kullanıldı.
-Compiler: 1.8 (Hibernate için 1.8 gerekli)
-JPA 2.1 kullanıldı.
+- Hbernate 5.2 kullanıldı.
+- Compiler: 1.8 (Hibernate için 1.8 gerekli)
+- JPA 2.1 kullanıldı.
